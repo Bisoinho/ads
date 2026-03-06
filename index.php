@@ -14,9 +14,9 @@
     
     <nav>
         <ul> 
-          <li><a href="novidades.html"> Novidades ❗ </a></li>
-          <li><a href="serversmaisjogados.html"> Servers Mais jogados 🧑‍💻 </a></li>
-          <li><a href="cfxvsrockstar.html"> Cfx vs Rockstar! Toda briga! 🤯 </a></li>
+          <li><a href="novidades.php"> Novidades ❗ </a></li>
+          <li><a href="serversmaisjogados.php"> Servers Mais jogados 🧑‍💻 </a></li>
+          <li><a href="cfxvsrockstar.php"> Cfx vs Rockstar! Toda briga! 🤯 </a></li>
         </ul>
  </nav>
 
